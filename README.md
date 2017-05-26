@@ -26,4 +26,4 @@ Components values used:
 * D2, D3 = 1W LEDs. Warm white looks great.
 * Solar panel = 2V 130ma(260mW). Any 2V panel can be used. More the wattage, Faster would be the charging.
 
-Note: The red wire from the JST connector on the circuit board have to be soldered to the -ve solder pad of the solar panel and the black one would be soldered to the +ve solder pad. This is against the convention as I couln't get the wires with the correct orientation in the market.
+Note: The red wire from the JST connector on the circuit board has to be soldered to the -ve solder pad of the solar panel and the black one has be soldered to the +ve solder pad. This is against the convention as I couln't get the wires with the correct orientation in the market.
