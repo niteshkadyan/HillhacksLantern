@@ -5,6 +5,11 @@
 <a href="/images/back.jpg"><img src="/images/back.jpg" align="left" height="450" width="338" ></a>
 
 
+
+
+ /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+
 Solar lantern used for the school program at Hillhacks 2017 in Bir, Himachal Pradesh India
 
 ![Schematics](/images/schematics.png)
