@@ -1,8 +1,8 @@
 # HillHacks Lantern
-<a href="url"><img src="/images/front.jpg" align="left" height="350" width="263" ></a>
+<a href="/images/front.jpg"><img src="/images/front.jpg" align="left" height="450" width="338" ></a>
 
 
-<a href="url"><img src="/images/back.jpg" align="left" height="350" width="263" ></a>
+<a href="/images/back.jpg"><img src="/images/back.jpg" align="left" height="450" width="338" ></a>
 
 
 Solar lantern used for the school program at Hillhacks 2017 in Bir, Himachal Pradesh India
