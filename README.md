@@ -15,6 +15,7 @@ Solar lantern used for the school program at Hillhacks 2017 in Bir, Himachal Pra
 ![Schematics](/images/schematics.png)
 
 Components values used:
+* qf5252 as solar charge controller and booster.
 * L1 inductor = 100 uH. We can use anyvalue between 100-330 uH. Lesser the value brighter will be the LEDs.
 * C1 = 10uF filtering cap.
 * C2, C3 = 47uF. Decrease this to blink the LEDs faster.
