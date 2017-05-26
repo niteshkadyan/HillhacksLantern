@@ -1,8 +1,8 @@
 # HillHacks Lantern
-<a href="/images/front.jpg"><img src="/images/front.jpg" align="left" height="450" width="338" ></a>
+<a href="/images/front.jpg"><img src="/images/front.jpg" align="left" height="533" width="400" ></a>
 
 
-<a href="/images/back.jpg"><img src="/images/back.jpg" align="left" height="450" width="338" ></a>
+<a href="/images/back.jpg"><img src="/images/back.jpg" align="left" height="533" width="400" ></a>
 
 
 
