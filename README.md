@@ -10,7 +10,7 @@
  <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br/>
 
 
-## Solar lantern used for the school program at Hillhacks 2017 in Bir, Himachal Pradesh India
+### Solar lantern used for the school program at Hillhacks 2017 in Bir, Himachal Pradesh, India
 
 The circuit consists of two parts. First is the booster and the solar charge controller and the other is an astable multivibrator.
 
