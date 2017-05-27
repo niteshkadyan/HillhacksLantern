@@ -12,7 +12,7 @@
 
 ### Solar lantern used for the school program at Hillhacks 2017 in Bir, Himachal Pradesh, India
 
-The circuit consists of two parts. First is the booster and the solar charge controller and the other is an astable multivibrator.
+I modifieed the design from Akiba's lantern used during the hillhacks 0. The circuit consists of two parts. First is the booster and the solar charge controller and the other is an astable multivibrator.
 
 ![Schematics](/images/schematics.png)
 
@@ -24,7 +24,7 @@ Components values used:
 * R1, R2 = 150 Kohm. Alternatively, these values can also be reduced to blink LEDs faster.
 * R3, R4 = 220 ohms.
 * Q1, Q2 = PNP 2N3906 transistor.
-* D1 = 1n5819 schottky diode. 
+* D1 = 1n5819 schottky diode.
 * D2, D3 = 1W LEDs. Warm white looks great.
 * Solar panel = 2V 130ma(260mW). Any 2V panel can be used. More the wattage, Faster would be the charging.
 
