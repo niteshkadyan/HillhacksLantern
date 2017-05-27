@@ -12,7 +12,7 @@
 
 ### Solar lantern used for the school program at Hillhacks 2017 in Bir, Himachal Pradesh, India
 
-I modifieed the design from Akiba's lantern used during the hillhacks 0. The circuit consists of two parts. First is the booster and the solar charge controller and the other is an astable multivibrator.
+I modified the design from Akiba's lantern used during the hillhacks 0. The circuit consists of two parts. First is the booster and the solar charge controller and the other is an astable multivibrator.
 
 ![Schematics](/images/schematics.png)
 
